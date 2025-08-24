@@ -1,8 +1,8 @@
 # Hi there 👋 , I'm Akul  
 
-💻 Backend & AI Engineer 
-🚀 Building scalable APIs and intelligent systems  
-🌱 Currently exploring AI and distributed systems  
+💻 Backend & AI Engineer<br>
+🚀 Building scalable APIs and intelligent systems<br>
+🌱 Currently exploring AI and distributed systems
 
 ---
 
