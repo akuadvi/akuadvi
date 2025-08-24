@@ -8,7 +8,7 @@
 
 ### 🔧 Tech Stack  
 - **Languages:** Python, SQL, Java, Go  
-- **Frameworks:** FastAPI, SpringBoot, Flask 
+- **Frameworks:** FastAPI, SpringBoot, Flask, Android Studio
 - **AI/ML:** LLMs, LangChain, Vector Databases  
 - **DevOps & Infra:** Docker, Kafka, AWS
 - **Databases:** PostgreSQL, Couchbase, Elasticsearch, Redis , OpenSearch
