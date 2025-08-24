@@ -1,6 +1,6 @@
 # Hi there 👋 , I'm Akul  
 
-💻 Backend & AI Engineer | Python • FastAPI • Docker • LLMs  
+💻 Backend & AI Engineer 
 🚀 Building scalable APIs and intelligent systems  
 🌱 Currently exploring AI and distributed systems  
 
