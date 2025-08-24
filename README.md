@@ -2,7 +2,7 @@
 
 💻 Backend & AI Engineer | Python • FastAPI • Docker • LLMs  
 🚀 Building scalable APIs and intelligent systems  
-🌱 Currently exploring agentic AI and distributed systems  
+🌱 Currently exploring AI and distributed systems  
 
 ---
 
@@ -23,12 +23,12 @@
 
 ### 📌 Featured Projects  
 
-#### 📄 [Realtime Docs] (https://github.com/akuadvi/realtime-docs)
+#### [Realtime Docs](https://github.com/akuadvi/realtime-docs)
 *Google Docs–like real-time collaborative editing platform*  
 - FastAPI + Postgres + Redis + Kafka  
 - JWT Auth, Role-based permissions, Live sync via WebSockets  
 
-#### 🔐 [Passwordless Auth (SAWO)](https://github.com/sawolabs/Android-SDK)
+#### [Passwordless Auth (SAWO)](https://github.com/sawolabs/Android-SDK)
 *Android authentication system for seamless login experience*  
 - Sole Android dev for passwordless one-touch authentication  
 - Focused on security + intuitive UI  
