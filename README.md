@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi there 👋, I'm Akul  
 
-<!--
-**akuadvi/akuadvi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Backend & AI Engineer | Python • FastAPI • Docker • LLMs  
+🚀 Building scalable APIs and intelligent systems  
+🌱 Currently exploring agentic AI and distributed systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack  
+- **Languages:** Python, SQL, Java, Go  
+- **Frameworks:** FastAPI, SpringBoot, Flask 
+- **AI/ML:** LLMs, LangChain, Vector Databases  
+- **DevOps & Infra:** Docker, Kafka, AWS
+- **Databases:** PostgreSQL, Couchbase, Elasticsearch, Redis , OpenSearch
+
+---
+
+### 💼 Experience  
+- **Apple (2022–Present):** Building distributed database automation & monitoring systems at scale (3000+ hosts).  
+- **SAWO Labs (2021):** Sole Android developer for one-touch authentication product.  
+
+---
+
+### 📌 Featured Projects  
+
+#### 📄 [Realtime Docs](https://github.com/YOUR-USERNAME/realtime-docs)  
+*Google Docs–like real-time collaborative editing platform*  
+- FastAPI + Postgres + Redis + Kafka  
+- JWT Auth, Role-based permissions, Live sync via WebSockets  
+
+#### 🔐 [Passwordless Auth (SAWO)](https://github.com/YOUR-USERNAME/sawo-auth-android)  
+*Android authentication system for seamless login experience*  
+- Sole Android dev for passwordless one-touch authentication  
+- Focused on security + intuitive UI  
