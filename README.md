@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Akul  
+# Hi there 👋 , I'm Akul  
 
 💻 Backend & AI Engineer | Python • FastAPI • Docker • LLMs  
 🚀 Building scalable APIs and intelligent systems  
