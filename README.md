@@ -23,7 +23,7 @@
 
 ### 📌 Featured Projects  
 
-#### [Realtime Docs](https://github.com/akuadvi/realtime-docs)
+#### [Realtime Docs (In Progress)](https://github.com/akuadvi/realtime-docs)
 *Google Docs–like real-time collaborative editing platform*  
 - FastAPI + Postgres + Redis + Kafka  
 - JWT Auth, Role-based permissions, Live sync via WebSockets  
